@@ -54,7 +54,7 @@ insight-extractor/
 
 1. **Clone and navigate to the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/imalisusan/insight-extractor
    cd backend
    ```
 
